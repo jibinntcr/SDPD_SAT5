@@ -4,9 +4,9 @@
 A simple calculator application built using **Kotlin**. This calculator supports basic arithmetic operations and is designed to be a console-based application.
 
 ## Features
-- Addition (`+`)
-- Subtraction (`-`)
-- Multiplication (`*`)
+- Addition   
+- Subtraction  
+- Multiplication 
 - Division (`/`)
 - Modular operation (`%`)
 - Exit option to terminate the program
@@ -48,13 +48,3 @@ calculator-app/
 │── README.md      # Project documentation
 ```
 
-## Contributing
-If you want to contribute:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -m 'Added new feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Create a Pull Request
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
